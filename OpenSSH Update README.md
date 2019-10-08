@@ -50,3 +50,5 @@ chmod 600  /opt/openssh8.0p1/etc/ssh_host_ed25519_key
 也是密钥文件权限导致。
 
 可以通过执行`sshd 的绝对路径`，根据上面的warring 修改文件权限。
+
+原链接：https://github.com/whisshe/upgradeOpenSSH  
